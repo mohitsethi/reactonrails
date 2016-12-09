@@ -17,6 +17,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require react
+//= require react_ujs
 //= require bootstrap/affix
 //= require bootstrap/alert
 //= require bootstrap/button
@@ -30,4 +32,3 @@
 //= require bootstrap/tab
 //= require bootstrap/transition
 //= require_tree .
-//= require react
