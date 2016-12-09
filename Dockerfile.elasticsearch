@@ -1,4 +1,4 @@
-FROM elasticsearch:latest
+FROM elasticsearch:2.1.1
 MAINTAINER mohitsethi
 
 ENV PATH /usr/share/elasticsearch/bin:$PATH
